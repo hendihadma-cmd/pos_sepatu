@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <rect width="400" height="300" fill="#f4f5f7"/>
+    <g transform="translate(200,120)" fill="none" stroke="#adb5bd" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M-70,20 h115 c8,0 15,4 20,11 l18,26 c4,6 10,9 17,9 h20 c11,0 20,9 20,20 v4 h-210 z"/>
+        <path d="M-70,20 v-35 c0,-8 6,-14 14,-14 h15"/>
+        <line x1="-40" y1="-4" x2="20" y2="-4"/>
+    </g>
+    <text x="200" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#6c757d" text-anchor="middle">Tanpa Foto</text>
+</svg>
